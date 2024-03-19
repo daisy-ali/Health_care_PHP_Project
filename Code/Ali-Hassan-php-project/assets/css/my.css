@@ -1,0 +1,58 @@
+.filter-container{
+    width: 100%;
+    border: 1px solid #ebebeb;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    border-spacing: 0;
+    padding: 0;
+  }
+  .dashboard-items{
+  
+    border: 2px solid #00ee97d6;
+    border-radius: 7px;
+    color: #00ee97d6;
+    padding:80px;
+    margin:auto;
+    width:95%;
+    display: flex;
+  }
+  .h1-dashboard{
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .h3-dashboard{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000000e3;
+  }
+
+  .btn-icon-back{
+    /* background-image: url('../assets/img/icons/back-iceblue.svg'); */
+    background-position: 18px 50%;
+    background-repeat: no-repeat;
+    transition: 0.5s;
+    padding: 8px 20px 8px 40px;
+    background-color: #00ee97d6;
+  }
+/*   
+  .btn-icon-back:hover{
+    background-image: url('../assets/img/icons/back-white.svg');
+  } */
+  
+.dashboard-icons{
+    background-color: rgba(184, 184, 184, 0.247);
+    padding-top: 40px;
+    padding-bottom: 30px;
+    border-radius: 7px;
+    margin-left: 40px;
+    margin-right: 0px;  
+  }
